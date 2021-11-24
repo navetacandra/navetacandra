@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am begopeople
+<span>I am @navetacandra</span>
 
 <p align="">
   
