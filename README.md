@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<span>I am @navetacandra</span>
+<span>I am <a href="https://www.navetacand.my.id/">@navetacandra<a></span>
 
 <p align="">
   
@@ -16,8 +16,4 @@
     <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
   </a>
 
-
-  <!--
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  -->
 </p>
