@@ -20,11 +20,11 @@
 
   
 ### My Projects
-<ul>
-  <li style="list-style-type: none;">
+<ul style="list-style-type: none;">
+  <li>
     <a href="https://photosheets.web.app/">PhotoSheets</a>
   </li>
-  <li style="list-style-type: none;">
+  <li>
     <a href="https://www.navetacand.my.id/erigo-store/">Static Online Store Web</a>
   </li>
 <ul>
