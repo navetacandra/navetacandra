@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <a href="https://wa.me/6285718234965">
-    <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
-  </a>
-
 </p>
 
   
@@ -28,8 +24,6 @@
     <a href="https://www.navetacand.my.id/erigo-store/">Static Online Store Web</a>
   </li>
 <ul>
-
-### Stats
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=navetacandra&show_icons=true&theme=vue-dark)
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=navetacandra&hide=batchfile&layout=compact&theme=vue-dark)
