@@ -30,4 +30,4 @@
 <ul>
 
 ### Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navetacandra&hide=batchfile&layout=compact&theme=vue-dark" />
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=navetacandra&hide=batchfile&layout=compact&theme=vue-dark)
