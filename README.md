@@ -28,3 +28,6 @@
     <a href="https://www.navetacand.my.id/erigo-store/">Static Online Store Web</a>
   </li>
 <ul>
+
+### Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navetacandra&hide=batchfile&layout=compact&theme=vue-dark" style="display: flex; justify-content: center;" />
