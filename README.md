@@ -20,9 +20,6 @@
   <li>
     <a href="https://photosheets.web.app/">PhotoSheets</a>
   </li>
-  <li>
-    <a href="https://www.navetacand.my.id/erigo-store/">Static Online Store Web</a>
-  </li>
 <ul>
 <br/>
 <br/>
