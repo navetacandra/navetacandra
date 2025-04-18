@@ -25,5 +25,5 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{navetacandra}/count.svg" alt="navetacandra :: Visitor's Count" /></p>
 
 # Contact Me
-[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:naveta.cand@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/naveta_candra)
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:navetacandraa@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/navetacandra)
